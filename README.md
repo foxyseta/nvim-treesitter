@@ -350,7 +350,7 @@ We are looking for maintainers to add more parsers and to write query files for 
 - [x] [pony](https://github.com/amaanq/tree-sitter-pony) (maintained by @amaanq, @mfelsche)
 - [x] [printf](https://github.com/ObserverOfTime/tree-sitter-printf) (maintained by @ObserverOfTime)
 - [x] [prisma](https://github.com/victorhqc/tree-sitter-prisma) (maintained by @elianiva)
-- [x] [problog](https://codeberg.org/foxy/tree-sitter-problog) (maintained by @foxyseta)
+- [x] [problog](https://codeberg.org/foxy/tree-sitter-prolog) (maintained by @foxyseta)
 - [x] [prolog](https://codeberg.org/foxy/tree-sitter-prolog) (maintained by @foxyseta)
 - [x] [promql](https://github.com/MichaHoffmann/tree-sitter-promql) (maintained by @MichaHoffmann)
 - [x] [properties](https://github.com/tree-sitter-grammars/tree-sitter-properties) (maintained by @ObserverOfTime)
