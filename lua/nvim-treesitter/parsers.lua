@@ -1568,6 +1568,7 @@ list.problog = {
   install_info = {
     url = "https://codeberg.org/foxy/tree-sitter-problog",
     files = { "src/parser.c" },
+    branch = "feat/problog",
   },
   maintainers = { "@foxyseta" },
 }
@@ -1576,6 +1577,7 @@ list.prolog = {
   install_info = {
     url = "https://codeberg.org/foxy/tree-sitter-prolog",
     files = { "src/parser.c" },
+    branch = "main",
   },
   maintainers = { "@foxyseta" },
 }
