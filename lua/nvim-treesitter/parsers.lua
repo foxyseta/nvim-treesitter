@@ -1564,6 +1564,22 @@ list.prisma = {
   maintainers = { "@elianiva" },
 }
 
+list.problog = {
+  install_info = {
+    url = "https://codeberg.org/foxy/tree-sitter-problog",
+    files = { "src/parser.c" },
+  },
+  maintainers = { "@foxyseta" },
+}
+
+list.prolog = {
+  install_info = {
+    url = "https://codeberg.org/foxy/tree-sitter-prolog",
+    files = { "src/parser.c" },
+  },
+  maintainers = { "@foxyseta" },
+}
+
 list.promql = {
   install_info = {
     url = "https://github.com/MichaHoffmann/tree-sitter-promql",

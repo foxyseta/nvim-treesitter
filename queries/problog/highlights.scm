@@ -1,0 +1,3 @@
+; inherits: prolog
+
+(probability) @attribute
