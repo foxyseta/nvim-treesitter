@@ -279,7 +279,7 @@
     "revision": "577259b4068b2c281c9ebf94c109bd50a74d5857"
   },
   "hcl": {
-    "revision": "422cbe1d93a8ae3847744b664041fc76876babcd"
+    "revision": "9e3ec9848f28d26845ba300fd73c740459b83e9b"
   },
   "heex": {
     "revision": "b5ad6e34eea18a15bbd1466ca707a17f9bff7b93"
@@ -360,7 +360,7 @@
     "revision": "f1baa5f8e271109d01cc8ff7473c11df2d8a9aee"
   },
   "just": {
-    "revision": "fd814fc6c579f68c2a642f5e0268cf69daae92d7"
+    "revision": "379fbe36d1e441bc9414ea050ad0c85c9d6935ea"
   },
   "kconfig": {
     "revision": "486fea71f61ad9f3fd4072a118402e97fe88d26c"
@@ -411,7 +411,7 @@
     "revision": "c134aaec6acf4fa95fe4aa0dc9aba3eacdbbe55a"
   },
   "luau": {
-    "revision": "5aa9b88a8e3327276ec6e72de997f04ac80b1ae4"
+    "revision": "fbadc96272f718dba267628ba7b0e694c368cef3"
   },
   "m68k": {
     "revision": "d097b123f19c6eaba2bf181c05420d88b9fc489d"
@@ -447,7 +447,7 @@
     "revision": "570f3d7be01fffc751237f4cfcf52d04e20532d1"
   },
   "nickel": {
-    "revision": "43433d8477b24cd13acaac20a66deda49b7e2547"
+    "revision": "3039ad9e9af3c1ffe049a04ee83a2b489915b0b9"
   },
   "nim": {
     "revision": "961c2798cec9250c44f7d7225ddb33d47d25856a"
@@ -579,7 +579,7 @@
     "revision": "171f52a8c0ed635b85cd42d1e36d82f1066a03b4"
   },
   "ralph": {
-    "revision": "48b9d9d6e2b55ce8f9eb09ceb0d952e4b1cc87a0"
+    "revision": "f6d81bf7a4599c77388035439cf5801cd461ff77"
   },
   "rasi": {
     "revision": "6c9bbcfdf5f0f553d9ebc01750a3aa247a37b8aa"
@@ -702,7 +702,7 @@
     "revision": "1af543a96d060b1f808982037bfc54cc02218edd"
   },
   "systemverilog": {
-    "revision": "7dc4904578a29315c64f0f6500920baff41cc3af"
+    "revision": "a478beb76be72fa8f305f5fe9cc6141ac91b91a4"
   },
   "t32": {
     "revision": "6182836f4128725f1e74ce986840d7317021a015"
@@ -711,7 +711,7 @@
     "revision": "b1170880c61355aaf38fc06f4af7d3c55abdabc4"
   },
   "tact": {
-    "revision": "034df2162ed7b654efd999942e266be713c7cde0"
+    "revision": "91cc49a83f4f0b3a756bf7d0e65403a9cf757003"
   },
   "tcl": {
     "revision": "8784024358c233efd0f3a6fd9e7a3c5852e628bc"
@@ -723,7 +723,7 @@
     "revision": "cf84ea53e2e2531f23009d676ac206090c1e2392"
   },
   "terraform": {
-    "revision": "422cbe1d93a8ae3847744b664041fc76876babcd"
+    "revision": "9e3ec9848f28d26845ba300fd73c740459b83e9b"
   },
   "textproto": {
     "revision": "8dacf02aa402892c91079f8577998ed5148c0496"
