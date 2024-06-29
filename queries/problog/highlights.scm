@@ -1,3 +1,4 @@
 ; inherits: prolog
 
-(probability) @attribute
+(probability_label
+  (_) @attribute)
