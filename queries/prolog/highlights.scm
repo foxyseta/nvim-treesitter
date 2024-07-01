@@ -15,7 +15,7 @@
 (directive_head) @operator
 
 (operator_notation
-  operator: (_) @operator)
+  operator: _ @operator)
 
 [
   (open)
@@ -36,7 +36,7 @@
 ] @punctuation.delimiter
 
 (operator_notation
-  operator: ";" @punctuation.delimiter)
+  operator: (semicolon) @punctuation.delimiter)
 
 (double_quoted_list_notation) @string
 
